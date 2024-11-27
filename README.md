@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-[E-Commerce](https://ecommercebassanthossamxx.netlify.app/Login) is a fully functional e-commerce platform built with React. The application allows users to browse products, manage their shopping carts, and securely check out.
+[E-Commerce](https://ecommercebassanthossamxx.netlify.app) is a fully functional e-commerce platform built with React. The application allows users to browse products, manage their shopping carts, and securely check out.
 
 ## Features
 
